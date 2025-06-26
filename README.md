@@ -1,6 +1,6 @@
 # Hey there! I'm Erick 👋
 
-![Erick's Banner](https://github.com/Ricokamau/Ricokamau/blob/main/Images/newbanner.png?raw=true)
+![Erick's Banner](https://github.com/Ricokamau/Ricokamau/blob/main/Images/neewbanner.png?raw=true)
 
 ## 🚀 About Me
 
