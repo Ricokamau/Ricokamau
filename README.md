@@ -71,7 +71,7 @@ A mobile application that aims to help people to discover amazing locations and 
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/erick-micheni-9452b113b/)
 - 📸 [Behance](https://www.behance.net/ricokamau)
 - 📸 [Linktree](https://linktr.ee/Ricokamau)
 - 🌐 [Portfolio Website](https://ricokamau.com)
