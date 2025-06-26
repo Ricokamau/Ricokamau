@@ -42,7 +42,7 @@ I'm a curious and creative **Full-Stack Developer** with a background in **Inter
 
 ### [Airbnb Clone Project](https://github.com/Ricokamau/AirBnB_clone)
 
-![Airbnb Clone](https://github.com/Ricokamau/Ricokamau/blob/main/Images/airbnbBanner.png?raw=true)
+![Airbnb Clone](https://github.com/Ricokamau/Ricokamau/blob/main/Images/airbnbclone.png?raw=true)
 
 A full-stack web application inspired by Airbnb. Built using **Python**, **Flask**, and **MySQL**, with a goal to learn scalable architecture and team collaboration.
 
@@ -72,7 +72,7 @@ A mobile application that aims to help people to discover amazing locations and 
 ## 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📸 [Behance (Design Showcase)](https://www.behance.net/ricokamau)
+- 📸 [Behance](https://www.behance.net/ricokamau)
 - 📸 [Linktree](https://linktr.ee/Ricokamau)
 - 🌐 [Portfolio Website](https://ricokamau.com)
 
