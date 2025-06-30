@@ -77,7 +77,7 @@ A mobile application that aims to help people to discover amazing locations and 
 - 🌐 [Portfolio Website](https://ricokamau.com)
 
 ---
-
+<!--
 ## 🎯 GitHub Stats
 
 <p align="center">
@@ -86,7 +86,7 @@ A mobile application that aims to help people to discover amazing locations and 
 </p>
 
 ---
-
+-->
 > “Creativity is Intelligence having fun.” – *Albert Einstein*
 
 Thanks for visiting! 🙌
